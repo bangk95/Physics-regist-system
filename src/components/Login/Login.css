@@ -1,0 +1,9 @@
+.blank {
+    height: 20px;
+    font-size: 13px;
+}
+
+.eye:hover, .link-dark {
+    cursor: pointer
+}
+  

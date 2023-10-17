@@ -1,0 +1,14 @@
+.r1 {
+    width: 30px;
+}
+
+.r2 {
+    width: 20%;
+}
+
+.c {text-align: center;
+vertical-align: middle;}
+
+.accordion-button {
+    background-color: rgb(240, 240, 240) !important;
+  }

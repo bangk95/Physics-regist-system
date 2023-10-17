@@ -1,0 +1,4 @@
+.r::before {
+    content: "* ";
+    color: red;
+}
